@@ -1,7 +1,7 @@
 
 /**
  *
- * @author nina
+ * @author nina (Nermeen)
  */
 //package mp3_player;
 import sun.audio.*;
